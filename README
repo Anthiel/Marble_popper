@@ -1,0 +1,14 @@
+Antoine THIEL, Antoine.thiel83@gmail.com
+Jeu Zuma, "HawawSpace"
+comment compiler : make puis ./main-app
+comment utiliser le programme : souris + clic
+fait :  - combo 1
+	- gestionnaire de fichier
+	- sauvegarde des niveaux
+	- graphisme
+	- score
+	- Menus
+	- Editeur de niveau
+	- Possibilité de faire un groupe de level
+interessant : combo 1, gestion des fichiers / sauvegardes, Menu, graphisme
+ 
